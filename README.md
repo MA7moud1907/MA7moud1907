@@ -4,5 +4,5 @@ I am a big data analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 Cleaning and collecting data from multiple sources , Data visualisation, sql 
 
-- :zap: In my free time, I solve problems on and read tech articles.
+- :zap: In my free time, I solve problems  and read tech articles.
 
